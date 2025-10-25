@@ -8,7 +8,7 @@ I took some pictures whilst fixing this board with my colleague. We were able to
 
 The board has 2 [ONSEMI Dual Inverting MOSFET Drivers MC33151](<Onsemi MC34151 MC33151.pdf>) on SOIC-8 package.
 
-On this case, one of them was damaged, and had to be replaced. We couldn't find an exact replacement, so we went with the following alternative: [ONSEMI Dual Inverting MOSFET Drivers MC33151](<Microchip MIC4426YM.pdf>).
+On this case, one of them was damaged, and had to be replaced. We couldn't find an exact replacement, so we went with the following alternative: [MIC4426YM](<Microchip MIC4426YM.pdf>).
 
 ## Damaged Zener
 
